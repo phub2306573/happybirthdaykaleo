@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-image: url('../img/pexels-mdsnmdsnmdsn-1831234.jpg'); /* Đường dẫn đến ảnh */
+  background-image: url('../img/pexels-mdsnmdsnmdsn-1831234-1.jpg'); /* Đường dẫn đến ảnh */
     background-size: cover; /* Ảnh bao phủ toàn bộ màn hình */
     background-repeat: no-repeat; /* Không lặp lại ảnh */
     background-attachment: fixed; /* Ảnh cố định khi cuộn trang */
