@@ -44,7 +44,17 @@ body {
 
 .one {
   font-size: 4.5rem;
+  
 
+
+
+}
+.hey {
+  font-weight: bold; /* Đậm chữ */
+  background: linear-gradient(to right, #750fea, #1f10f2); /* Màu gradient */
+  -webkit-background-clip: text; /* Cắt gradient để hiển thị trên chữ */
+  -webkit-text-fill-color: transparent; 
+  
 }
 
 .one > img {
@@ -73,7 +83,7 @@ body {
 
 
   /* Background gradient */
-  background: linear-gradient(45deg, rgba(168, 136, 181, 0.3), rgba(200, 78, 175, 0.3));
+  background: linear-gradient(45deg, rgba(175, 146, 186, 0.3), rgba(218, 155, 205, 0.3));
   -webkit-background-clip: initial;
   -webkit-text-fill-color: black;
 
