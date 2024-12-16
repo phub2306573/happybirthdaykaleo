@@ -56,6 +56,13 @@ body {
   -webkit-text-fill-color: transparent; 
   
 }
+.name {
+  font-weight: bold; /* Đậm chữ */
+  background: linear-gradient(to right, #1f10f2, #750fea); /* Màu gradient */
+  -webkit-background-clip: text; /* Cắt gradient để hiển thị trên chữ */
+  -webkit-text-fill-color: transparent; 
+}
+
 
 .one > img {
   vertical-align: middle;
